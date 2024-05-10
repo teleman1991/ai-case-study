@@ -35,7 +35,7 @@
 
 * What are the other major companies in this field?
 
-## Results
+## Results    [(Zoom AI Companion)](https://www.zoom.com/en/blog/win-back-your-workday-ai-companion/)
 
 * What has been the business impact of this company so far?   [(Source)]([[https://google.com](https://www.zoom.com/en/blog/win-back-your-workday-ai-companion/)]
 
