@@ -37,7 +37,7 @@
 
 ## Results
 
-* What has been the business impact of this company so far?   [(Source)](https://google.com)
+* What has been the business impact of this company so far?   [(Source)]([https://google.com](https://www.zoom.com/en/blog/win-back-your-workday-ai-companion/)
 
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 
