@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AI Transcribing with Zoom
 
 ## Overview and Origin
