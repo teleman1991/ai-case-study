@@ -44,7 +44,7 @@ Zoom distinguishes itself from competitors by offering a user-friendly interface
 Zoom employs a range of technologies to power its platform, including:
 
 - Real-time video and audio streaming technologies ensure smooth and high-quality communication experiences.
-- AI and machine learning algorithms enable features like AI transcription, enhancing accessibility and productivity in virtual meetings.
+- AI and machine learning algorithms enable features like AI transcription, enhancing accessibility and productivity in virtual meetings. [(Zoom AI Companion)]([https://google.com](https://www.zoom.com/en/blog/win-back-your-workday-ai-companion/))
 - Cloud infrastructure facilitates scalability, reliability, and flexibility, allowing Zoom to accommodate a large user base while maintaining performance and uptime.
 
 These technologies are seamlessly integrated into Zoom's platform, ensuring a reliable and user-friendly experience for customers.
