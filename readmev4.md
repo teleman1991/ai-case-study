@@ -20,7 +20,7 @@
 - **Founder**: Eric Yuan
 
 The idea for Zoom originated from Eric Yuan's frustration with the shortcomings of existing video conferencing solutions, particularly Cisco's WebEx, where he worked as a vice president of engineering. Yuan envisioned a video conferencing platform that prioritized simplicity, reliability, and affordability, addressing the issues he encountered with other services. Dissatisfied with the complexity and performance issues of existing solutions, Yuan left Cisco to start Zoom in April 2011. His vision was to create a platform that would revolutionize virtual communication and make it accessible to everyone, regardless of technical expertise or budget constraints. Zoom has primarily been funded through venture capital investments. Since its founding, Zoom has raised significant funding through various rounds of financing. As of January 2022, Zoom had raised over $146 million in venture capital funding across multiple rounds. However, it's worth noting that this figure may have changed since then, as the company continued to grow and attract investment. Additionally, Zoom went public in April 2019 with an initial public offering (IPO), which further contributed to its funding and allowed it to raise capital from public investors. Overall, the combination of venture capital funding and proceeds from its IPO has provided Zoom with the financial resources to support its growth and expansion as a leading video conferencing platform.
-[(Zoom Wiki)]([https://www.zoom.com/en/blog/win-back-your-workday-ai-companion/](https://en.wikipedia.org/wiki/Zoom_Video_Communications)
+[(Zoom Wiki)](https://en.wikipedia.org/wiki/Zoom_Video_Communications)
 
 ---
 
