@@ -64,8 +64,6 @@ These technologies are seamlessly integrated into Zoom's platform, ensuring a re
   - Improved user experience with features like virtual backgrounds, screen sharing, and interactive whiteboards.
 - **Major Companies**: Other major companies in the video conferencing field include Cisco (WebEx), Microsoft (Teams), Google (Meet), and Slack (now part of Salesforce).
 
-[Back to Contents](#table-of-contents)
-
 ---
 
 ## Results
