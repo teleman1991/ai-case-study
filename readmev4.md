@@ -1,4 +1,4 @@
-# AI Transcribing with Zoom
+# AI Utilization with Zoom
 
 ## Table of Contents
 
